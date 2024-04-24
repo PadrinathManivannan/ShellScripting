@@ -1,0 +1,6 @@
+#view date and time
+
+date '+=DATE:%m-%y %n TIME:%H:%M:%S'
+
+#%m -> month and %y -> year
+#%H -> hour , %M -> minute and %S -> seconds
